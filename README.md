@@ -1,4 +1,5 @@
 # React-Portfolio
+## I was able to use react to create myself a portfolio that included an about me, portfolio, contact, and a resume page
 ```md
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
@@ -27,4 +28,8 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 ```
 ---
-Deployed Link Here: ..
+Deployed Link Here: https://brusomaroff.github.io/React-Portfolio/
+<img width="1448" alt="Screenshot 2023-05-27 at 2 15 42 PM" src="https://github.com/Brusomaroff/React-Portfolio/assets/120063382/20a7a935-fb00-44fd-bc23-ef7c97c27dcc">
+<img width="1446" alt="Screenshot 2023-05-27 at 2 16 07 PM" src="https://github.com/Brusomaroff/React-Portfolio/assets/120063382/92d1b2f1-226a-4<img width="1447" alt="Screenshot 2023-05-27 at 2 16 22 PM" src="https://github.com/Brusomarof<img width="1449" alt="Screenshot 2023-05-27 at 2 16 35 PM" src="https://github.com/Brusomaroff/React-Portfolio/assets/120063382/3ca9f38e-8e17-4c06-b4bc-876a83b71003">
+f/React-Portfolio/assets/120063382/9e5f791d-6c42-4b89-99a6-ead9fefd2021">
+886-b73a-ca47dac1fd97">

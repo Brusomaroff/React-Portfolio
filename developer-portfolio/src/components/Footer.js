@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-container">
-        <p>&copy; 2023 Bruso. All rights reserved.</p>
+        <p>&copy; 2023 Brusomaroff.</p>
         <div className="social-icons">
           <a href="https://github.com/brusomaroff">
             <i className="fab fa-github"></i>

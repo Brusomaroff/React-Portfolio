@@ -1,10 +1,12 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin');
+const path = require('path');
 
 module.exports = {
   entry: './src/index.js',
   output: {
-    path: __dirname + '/dist',
-    filename: 'bundle.js'
+    path: path.resolve(__dirname, 'dist'),
+    filename: 'bundle.js',
+    publicPath: '/'
   },
   devServer: {
     historyApiFallback: true,
@@ -30,6 +32,14 @@ module.exports = {
       {
         test: /\.css$/,
         use: ['style-loader', 'css-loader']
+      },
+      {
+        test: /\.(png|jpe?g|gif)$/i,
+        loader: 'file-loader',
+        options: {
+          name: '[name].[ext]',
+          outputPath: 'images'
+        }
       }
     ]
   }

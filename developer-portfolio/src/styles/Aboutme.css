@@ -1,0 +1,16 @@
+.aboutme-container {
+  text-align: center;
+}
+
+.profile-pic {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.profile-pic img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid #ffd4d4;
+}

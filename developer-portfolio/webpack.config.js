@@ -40,7 +40,14 @@ module.exports = {
           name: '[name].[ext]',
           outputPath: 'images'
         }
-      }
+      },
+      {
+        test: /\.pdf$/i,
+        type: 'asset/resource',
+        generator: {
+          filename: 'assets/[name][ext]',
+        },
+      },
     ]
   }
 };

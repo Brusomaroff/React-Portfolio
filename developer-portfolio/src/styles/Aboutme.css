@@ -1,5 +1,17 @@
 .aboutme-container {
   text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.aboutme-container p {
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 20px;
 }
 
 .profile-pic {

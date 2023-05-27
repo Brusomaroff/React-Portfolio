@@ -45,7 +45,6 @@ const Portfolio = () => {
       deployLink: 'https://pwa-text-editor-bryson.herokuapp.com/',
       githubLink: 'https://github.com/Brusomaroff/PWA-Text-Editor',
     },
-    // Add more project objects as needed
   ];
 
   return (

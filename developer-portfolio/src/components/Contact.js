@@ -9,7 +9,6 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Add logic to handle form submission here
     setFormSubmitted(true);
   };
 

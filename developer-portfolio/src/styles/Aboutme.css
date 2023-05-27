@@ -1,28 +1,60 @@
 .aboutme-container {
   text-align: center;
-  padding: 20px;
+  padding: 40px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
 }
 
 h1 {
   margin-top: 0;
   margin-bottom: 20px;
+  font-size: 32px;
+  color: #333;
 }
 
 .aboutme-container p {
-  max-width: 800px;
+  max-width: 600px;
   margin: 0 auto;
   margin-bottom: 20px;
+  color: #555;
+  line-height: 1.6;
 }
 
 .profile-pic {
-  display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .profile-pic img {
   width: 200px;
   height: 200px;
   border-radius: 50%;
-  border: 2px solid #ffd4d4;
+  border: 4px solid #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.aboutme-container .social-links {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 30px;
+}
+
+.aboutme-container .social-links a {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #007bff;
+  color: #fff;
+  line-height: 40px;
+  font-size: 18px;
+  transition: background-color 0.3s ease;
+}
+
+.aboutme-container .social-links a:hover {
+  background-color: #0056b3;
+}
+
+.aboutme-container .social-links a i {
+  vertical-align: middle;
 }

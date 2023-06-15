@@ -4,11 +4,17 @@ import hobbyBoxImage from '../images/hobbybox.jpeg';
 import FiTrackerImage from '../images/fit.png'
 import NoteTakerImage from '../images/note.png'
 import PassgenImage from '../images/passgen.png'
-import TextEditorImage from '../images/pwa.png'
+import todoImage from '../images/todo.png';
 import "../styles/Portfolio.css";
 
 const Portfolio = () => {
   const projects = [
+    {
+      title: 'To-Do Appplication',
+      image: todoImage,
+      deployLink: 'https://to-do-application-650651e56723.herokuapp.com/',
+      githubLink: 'https://github.com/johnfitz3/project-3',
+    },
     {
       title: 'Weather API application',
       image: weatherAppImage,
@@ -38,12 +44,6 @@ const Portfolio = () => {
       image: PassgenImage,
       deployLink: 'https://brusomaroff.github.io/javaScriptPasswordGenerator/',
       githubLink: 'https://github.com/Brusomaroff/javaScriptPasswordGenerator',
-    },
-    {
-      title: 'PWA Text Editor',
-      image: TextEditorImage,
-      deployLink: 'https://pwa-text-editor-bryson.herokuapp.com/',
-      githubLink: 'https://github.com/Brusomaroff/PWA-Text-Editor',
     },
   ];
 

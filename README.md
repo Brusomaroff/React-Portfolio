@@ -30,6 +30,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ---
 Deployed Link Here: https://brusomaroff.github.io/React-Portfolio/
 <img width="1448" alt="Screenshot 2023-05-27 at 2 22 09 PM" src="https://github.com/Brusomaroff/React-Portfolio/assets/120063382/8a993298-4cf1-41a2-afe0-d74ab6cde07a">
-<img width="1448" alt="Screenshot 2023-05-27 at 2 23 20 PM" src="https://github.com/Brusomaroff/React-Portfolio/assets/120063382/f94d18b0-b596-4215-a7b2-80d7ad82ce6a">
+<img width="1431" alt="Screenshot 2023-06-14 at 11 21 51 PM" src="https://github.com/Brusomaroff/React-Portfolio/assets/120063382/84972015-979a-455d-81c1-22fc63947775">
 <img width="1441" alt="Screenshot 2023-05-27 at 2 24 02 PM" src="https://github.com/Brusomaroff/React-Portfolio/assets/120063382/8566aa6e-4b91-4dc4-9314-8b2d90380014">
 <img width="1448" alt="Screenshot 2023-05-27 at 2 24 19 PM" src="https://github.com/Brusomaroff/React-Portfolio/assets/120063382/d968739a-d1a3-4711-996d-3c57851779c4">
